@@ -48,4 +48,9 @@ animation-iteration-count: infinite;
     margin: 0 2rem;
 
 }
+@media (max-width:600px){
+    .card{
+        flex-direction: column;
+    }
+}
 
